@@ -122,7 +122,7 @@ The results demonstrate that the dataset is highly separable due to strong patte
 | File/Folder           | Description                                                                      |
 |-----------------------|----------------------------------------------------------------------------------|
 | `mushrooms.csv`       | Dataset file with categorical features.                                          |
-| `Final_Project.ipynb` | Jupyter Notebook with the full analysis, including preprocessing, modeling, and evaluation. |
+| `mushroom_classification_analysis.ipynb` | Jupyter Notebook with the full analysis, including preprocessing, modeling, and evaluation. |
 
 ## Link to Data
 - The dataset used in this project is publicly available on Kaggle: [Mushroom Classification Dataset](https://www.kaggle.com/uciml/mushroom-classification).
